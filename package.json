@@ -1,0 +1,23 @@
+{
+  "name": "denoplay",
+  "version": "1.0.0",
+  "description": "Playing with Deno publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsaved/denoplay.git"
+  },
+  "keywords": [
+    "deno"
+  ],
+  "author": "Blaine Simpson <blaine.simpson@admc.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/unsaved/denoplay/issues"
+  },
+  "homepage": "https://github.com/unsaved/denoplay#readme",
+  "type": "module"
+}
